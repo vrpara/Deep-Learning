@@ -1,1 +1,1 @@
-# Deep-Learning
+#  Projects demonstrating the major deep-Learning concepts
