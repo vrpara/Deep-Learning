@@ -1,1 +1,1 @@
-#  Projects demonstrating the major deep-Learning concepts
+######  Projects demonstrating the major deep-learning concepts
