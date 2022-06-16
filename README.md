@@ -1,6 +1,6 @@
 ######  Following are the few concepts (for demonstration purpose) from my original projects:
 ######  1. EKG anomaly detection (unsupervised; time-series)
-######  2. Classification model using deep autoencoder and SVM 
+######  2. Semiconductor Manufacturing Product Quality - using deep autoencoder (for dimentionality reduction) and SVM 
 ######  3. Unsupervised image classification 
 ######  4. Image classification using CNN 
 ######  5. Image segmentation 
