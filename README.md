@@ -7,7 +7,7 @@
 ######  6. Object detection extended over image recognition 
 ######  7. A self-driving car 
 ######  8. Sensor signal Processing
-######  9. Document Summarization 
+######  9. Document summarization 
 
 
 
