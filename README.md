@@ -1,4 +1,4 @@
-######  Following are the few concepts (for demonstration purpose, also the considered datasets) from my original projects."IBM Cloud Pak for Data" is the working environment
+######  Following are the few concepts (for demonstration purpose, also the considered datasets) from my original projects.
 ######  1. EKG anomaly detection (unsupervised; time-series)
 ######  2. Semiconductor Manufacturing Product Quality - using deep autoencoder (for dimentionality reduction) and SVM 
 ######  3. Unsupervised image classification 
