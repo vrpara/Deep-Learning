@@ -5,7 +5,7 @@
 ######  4. Image segmentation using RNN (Recurrent Neural Networks)
 ######  5. Object detection extended over image recognition using GAN (Generative Adversarial Network)
 ######  6. A self-driving car 
-######  7. Biometric Authentication using CNN (Convolutional Neural Networks)
+######  7. Biometric authentication using CNN (Convolutional Neural Networks)
 ######  8. Sensor signal Processing
 ######  9. Document summarization 
 
