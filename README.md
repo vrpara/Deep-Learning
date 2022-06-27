@@ -1,4 +1,4 @@
-######  Following are the few concepts (for demonstration purpose, also the considered datasets) from my original projects.
+######  Following are the few concepts (for demonstration purpose, not the actual datasets) from my original projects.
 ######  1. EKG anomaly detection (time-series data; autoencoder algorithm)
 ######  2. Semiconductor Manufacturing Product Quality - using deep autoencoder (for dimentionality reduction) and SVM 
 ######  3. Image recognition by Transfer Learning
