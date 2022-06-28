@@ -8,6 +8,8 @@
 ######  7. Biometric authentication using CNN (Convolutional Neural Networks)
 ######  8. Sensor signal Processing
 ######  9. Document summarization 
+######  10. Video classification 
+
 
 
 
