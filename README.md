@@ -3,11 +3,10 @@
 ######  2. Semiconductor Manufacturing Product Quality - using deep autoencoder (for dimentionality reduction) and SVM 
 ######  3. Image recognition/classification by Transfer Learning
 ######  4. Video segmentation using custom architecture (FCN + RNN)
-######  5. Object detection extended over image recognition using GAN (Generative Adversarial Network)
-######  6. A self-driving car 
-######  7. Biometric authentication using CNN (Convolutional Neural Networks)
-######  8. Sensor signal Processing
-######  9. Document summarization  
+######  5. GAN (Generative Adversarial Network)
+######  6. Biometric authentication
+######  7. Sensor signal Processing
+######  8. Document summarization  
 
 
 
