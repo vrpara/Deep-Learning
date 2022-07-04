@@ -4,7 +4,7 @@
 ######  3. Image recognition/classification by transfer learning
 ######  4. Video segmentation 
 ######  5. Supervised learning techniques (R Code)
-######  6. Probability Theory for a robot catching object machine learning application (MATLAB Code)
+######  6. Probability theory for a robot catching object machine learning application (MATLAB Code)
 ######  7. Image reconstruction using GAN (Generative Adversarial Network)
 ######  8. Biometric authentication using RNN
 ######  9. Sensor signal processing (FCN + RNN)
