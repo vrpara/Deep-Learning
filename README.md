@@ -4,10 +4,11 @@
 ######  3. Image recognition/classification by transfer learning
 ######  4. Video segmentation 
 ######  5. Supervised learning techniques
-######  6. Image reconstruction using GAN (Generative Adversarial Network)
-######  7. Biometric authentication using RNN
-######  8. Sensor signal processing (FCN + RNN)
-######  9. Document summarization  
+######  6. Probability Theory for a robot catching object machine learning application
+######  7. Image reconstruction using GAN (Generative Adversarial Network)
+######  8. Biometric authentication using RNN
+######  9. Sensor signal processing (FCN + RNN)
+######  10. Document summarization  
 
 
 
