@@ -6,7 +6,7 @@
 ######  5. Supervised Learning Techniques
 ######  6. Image reconstruction using GAN (Generative Adversarial Network)
 ######  7. Biometric authentication using RNN
-######  8. Sensor signal Processing (FCN + RNN)
+######  8. Sensor signal processing (FCN + RNN)
 ######  9. Document summarization  
 
 
