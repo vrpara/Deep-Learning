@@ -8,7 +8,7 @@
 ######  7. Image reconstruction using GAN (Generative Adversarial Network)
 ######  8. Biometric authentication using RNN
 ######  9. Sensor signal processing (FCN + RNN)
-######  10. NLP Document summarization  
+######  10. Sentiment Analysis (NLP, end-point API)  
 
 
 
